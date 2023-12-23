@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](./github-header-image.png)
 ### Hi there 👋
 
 - 👨‍💻 I’m currently working on optimizing CI/CD pipelines for a microservices architecture using Kubernetes and Helm charts for seamless deployment.
