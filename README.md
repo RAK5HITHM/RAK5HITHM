@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Always Learning, Always Exploring, Always Impacting
 
-![Header](github-header.png)
+![Header](./github-header.png)
