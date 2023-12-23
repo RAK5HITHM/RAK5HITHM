@@ -1,4 +1,4 @@
-![GitHub Header](https://raw.githubusercontent.com/RAK5HITHM/RAK5HITHM/main/github-header.png)
+<img src="https://github.com/RAK5HITHM/RAK5HITHM/blob/main/github-header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 ### Hi there 👋
 
 - 👨‍💻 I’m currently working on optimizing CI/CD pipelines for a microservices architecture using Kubernetes and Helm charts for seamless deployment.
