@@ -1,4 +1,4 @@
-![Header](https://github.com/RAK5HITHM/RAK5HITHM.git/github-header-image.png)
+![Header](https://github.com/RAK5HITHM/RAK5HITHM/raw/main/github-header-image.png)
 ### Hi there 👋
 
 - 👨‍💻 I’m currently working on optimizing CI/CD pipelines for a microservices architecture using Kubernetes and Helm charts for seamless deployment.
